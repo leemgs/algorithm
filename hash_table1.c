@@ -34,7 +34,7 @@ int main(void)
 	insert("김희지", 95);
 	insert("김은혜", 37);
 	insert("김은정", 74);
-	// 김은혜의 index 값 10으로 해당 정보를 곧바로 출력한다. 
+	// 김은혜의 index 값 7으로 해당 정보를 곧바로 출력한다. 
 	find("김은혜", 7);
 	return 0; 
 
