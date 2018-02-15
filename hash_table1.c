@@ -28,7 +28,7 @@ void insert(char name[10], int score) // 데이타를 입력한다.
 int main(void)
 {
 	// 데이타 (성명, 점수)를 입력한다.
-	insert("김철수",30);
+	insert("김철수", 30);
 	insert("김수연", 28);
 	insert("김현준", 96);
 	insert("김희지", 95);
